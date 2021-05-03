@@ -1,5 +1,5 @@
 # Web App Server
-- [Heroku - Free Plan](https://www.heroku.com/pricing)
+- [Heroku - Free Plan](https://www.heroku.com/pricing#containers)
   - 550-1,000 dyno hours per month
   - Deploy with Git and Docker
   - Custom domains
